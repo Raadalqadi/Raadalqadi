@@ -1,101 +1,68 @@
-# Raad Alqadi
+# Hi, I'm Raad Alqadi
 
-Full-Stack Developer focused on building real-world platforms, dashboards, and business systems from end to end.
+Full-Stack Developer building production-ready platforms, dashboards, CMS systems, and modern web applications.
 
 ## About Me
 - Based in Aden, Yemen
-- Professional name: Raad Alqadi
-- Full name: Raad Aidaroos Ali Omar
-- Experience: 2+ years
-- Focus area: Full-stack web platforms, CMS systems, dashboards, and production-ready business applications
-
-## What I Do
-I build complete web products, not just landing pages. My work usually covers frontend development, backend architecture, authentication flows, dashboards, content management systems, deployment, and production delivery.
+- 2+ years of hands-on development experience
+- Focused on real business systems, not just landing pages
+- Comfortable across frontend, backend, dashboards, authentication, and deployment
 
 ## Tech Stack
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- SCSS
-- Tailwind CSS
-- CSS
+- Frontend: React.js, Next.js, TypeScript, SCSS, Tailwind CSS
+- Backend: Node.js, Express.js, ASP.NET
+- Database: MySQL
+- Auth: JWT, Session-based auth, Google Authentication
+- Tools: REST APIs, SEO, VPS, cPanel, SSH, SCP, Bunny Stream
 
-### Backend
-- Node.js
-- Express.js
-- ASP.NET
-
-### Database
-- MySQL
-
-### Authentication
-- JWT
-- Session-based authentication
-- Google Authentication
-
-### Other Tools
-- REST APIs
-- SEO Optimization
-- VPS Hosting
-- cPanel
-- SSH / SCP
-- Bunny Stream
-
-## Experience
-### Becon Agency
-Worked as a Full-Stack Developer on company websites and platform-based projects for clients.
-
-### Rany Agency
-Worked on the Accelerator Token project as a Full-Stack Developer.
+## What I Build
+- End-to-end web platforms
+- Admin dashboards and CMS systems
+- User-based systems and authentication flows
+- Production-ready business applications
 
 ## Featured Projects
 ### Medicanr
-Medical EdTech platform with video workflows, user systems, progress tracking, and interactive content.  
-Live site: https://medicanr.com/  
+Medical EdTech platform with video workflows, live content, progress tracking, and user management.  
+Live: https://medicanr.com/  
 Repo: https://github.com/Raadalqadi/medicanr
 
 ### Bisan Travel
 Travel platform with booking workflows, admin dashboard, RBAC, uploads, filtering, and authentication.  
-Live site: https://www.bisantravel.com/  
+Live: https://www.bisantravel.com/  
 Repo: https://github.com/Raadalqadi/bisan-travel
-
-### Al-Qutaibi Wallet
-FinTech marketing platform with dynamic content management and dashboard-based updates.  
-Live site: https://qtbshilling.com/  
-Repo: https://github.com/Raadalqadi/qutaibi-wallet
 
 ### Al-Naqeeb
 Corporate platform with dashboard management, SEO optimization, and VPS deployment.  
-Live site: https://www.alnaqeeb.com/  
+Live: https://www.alnaqeeb.com/  
 Repo: https://github.com/Raadalqadi/al-naqeeb
 
-### Accelerator Token
-Initiative platform with forms, Google authentication, dashboard workflows, and dynamic content.  
-Live site: https://accelerator.token.com.sa/  
-Repo: https://github.com/Raadalqadi/accelerator-token
+### Al-Qutaibi Wallet
+FinTech marketing platform with dynamic content management and dashboard-based updates.  
+Live: https://qtbshilling.com/  
+Repo: https://github.com/Raadalqadi/qutaibi-wallet
 
 ### Becon Marketing
-Marketing agency website with dynamic sections and partial content management workflow.  
-Live site: https://www.beccon4mk.com/  
+Marketing agency website with dynamic sections and content workflow support.  
+Live: https://www.beccon4mk.com/  
 Repo: https://github.com/Raadalqadi/becon-marketing
 
 ### Coffee Menu
-Local web app built for in-store menu browsing on a local network environment.  
-Live site: https://aden-coffe.vercel.app/  
+Local web app built for in-store menu browsing inside a local network environment.  
+Live: https://aden-coffe.vercel.app/  
 Repo: https://github.com/Raadalqadi/coffee-menu
 
-## Strengths
-- Building end-to-end platforms
-- Designing and implementing dashboard workflows
-- Creating CMS and user-based systems
-- Delivering production-ready web applications
-- Working across frontend, backend, and deployment
+## Experience
+### Becon Agency
+Worked as a Full-Stack Developer on websites and platform-based client projects.
+
+### Rany Agency
+Worked as a Full-Stack Developer on the Accelerator Token project.
 
 ## Contact
-- Email: raadlaqadi4@gmail.com
+- Portfolio: https://raadalqadi.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/raad-alqadi-3b7304268
-- GitHub: https://github.com/Raadalqadi
+- Email: raadlaqadi4@gmail.com
 
-## Notes
-Some repositories are public documentation/showcase repositories because the original source code belongs to clients or agencies and cannot be published publicly.
+## Note
+Some repositories are public showcase repositories because the original source code belongs to clients or agencies and cannot be published publicly.
