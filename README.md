@@ -1,28 +1,31 @@
+<h1 align="center">Raad Alqadi</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:06b6d4,100:22c55e&height=240&section=header&text=Raad%20Alqadi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Platforms%20%7C%20Dashboards%20%7C%20CMS&descAlignY=58" alt="Raad Alqadi banner" />
+  <strong>Full-Stack Developer</strong> focused on platforms, dashboards, CMS systems, and production-ready web applications.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=800&color=1D4ED8&center=true&vCenter=true&width=900&lines=Building+production-ready+web+applications;Turning+business+ideas+into+real+platforms;Full-Stack+Developer+from+Aden%2C+Yemen" alt="Typing intro" />
+  <a href="https://raadalqadi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-raadalqadi.netlify.app-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/raad-alqadi-3b7304268">
+    <img src="https://img.shields.io/badge/LinkedIn-Raad%20Alqadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raadlaqadi4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raadlaqadi4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://raadalqadi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/raad-alqadi-3b7304268"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:raadlaqadi4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Raadalqadi"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20In-Aden%2C%20Yemen-1d4ed8?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-16a34a?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-Real%20Products-f59e0b?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0f172a?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Based%20In-Aden%2C%20Yemen-1d4ed8?style=flat-square" alt="Based in Aden, Yemen" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-16a34a?style=flat-square" alt="2+ Years Experience" />
+  <img src="https://img.shields.io/badge/Specialty-Full--Stack%20Platforms-f59e0b?style=flat-square" alt="Full-Stack Platforms" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Real%20Products-0f172a?style=flat-square" alt="Open to Real Products" />
 </p>
 
 ## About Me
 
-I build real business systems from end to end, not just landing pages. My work focuses on platforms, dashboards, CMS workflows, authentication systems, deployment, and production-ready web applications.
+I build real business systems from end to end, not just landing pages. My work focuses on scalable web platforms, dashboards, CMS workflows, authentication systems, deployment, and production-ready applications.
 
 <table>
   <tr>
@@ -31,38 +34,47 @@ I build real business systems from end to end, not just landing pages. My work f
   </tr>
   <tr>
     <td><strong>Focus</strong></td>
-    <td>Full-stack platforms, dashboards, CMS systems, and business applications</td>
-  </tr>
-  <tr>
-    <td><strong>Based In</strong></td>
-    <td>Aden, Yemen</td>
+    <td>Platforms, dashboards, CMS systems, and business web applications</td>
   </tr>
   <tr>
     <td><strong>Strength</strong></td>
     <td>Frontend, backend, databases, deployment, and production workflows</td>
   </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Aden, Yemen</td>
+  </tr>
 </table>
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mysql,sass,tailwind,css,dotnet,git,github,vscode" alt="Tech stack icons" />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Frontend**  
-React.js, Next.js, TypeScript, SCSS, Tailwind CSS
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-**Backend**  
-Node.js, Express.js, ASP.NET
-
-**Database**  
-MySQL
-
-**Authentication**  
-JWT, Session-based Auth, Google Authentication
-
-**Tools**  
-REST APIs, SEO, VPS, cPanel, SSH, SCP, Bunny Stream
+### Auth, Deployment, and Tools
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Google_Auth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Auth" />
+  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SEO-16a34a?style=flat-square" alt="SEO" />
+  <img src="https://img.shields.io/badge/VPS-334155?style=flat-square" alt="VPS" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/SSH-111111?style=flat-square&logo=gnubash&logoColor=white" alt="SSH" />
+</p>
 
 ## What I Build
 
@@ -74,14 +86,14 @@ REST APIs, SEO, VPS, cPanel, SSH, SCP, Bunny Stream
 
 ## Featured Projects
 
-| Project | What It Is | Live | Repository |
+| Project | Summary | Live | Repository |
 |---|---|---|---|
-| Medicanr | Medical EdTech platform with video workflows, live content, progress tracking, and user management. | [Live](https://medicanr.com/) | [Repo](https://github.com/Raadalqadi/medicanr) |
-| Bisan Travel | Travel platform with booking workflows, admin dashboard, RBAC, uploads, filtering, and authentication. | [Live](https://www.bisantravel.com/) | [Repo](https://github.com/Raadalqadi/bisan-travel) |
-| Al-Naqeeb | Corporate platform with dashboard management, SEO optimization, and VPS deployment. | [Live](https://www.alnaqeeb.com/) | [Repo](https://github.com/Raadalqadi/al-naqeeb) |
-| Al-Qutaibi Wallet | FinTech marketing platform with dynamic content management and dashboard-based updates. | [Live](https://qtbshilling.com/) | [Repo](https://github.com/Raadalqadi/qutaibi-wallet) |
-| Accelerator Token | Initiative platform with forms, Google authentication, dashboard workflows, and dynamic content. | [Live](https://accelerator.token.com.sa/) | [Repo](https://github.com/Raadalqadi/accelerator-token) |
-| Becon Marketing | Marketing agency website with dynamic sections and content workflow support. | [Live](https://www.beccon4mk.com/) | [Repo](https://github.com/Raadalqadi/becon-marketing) |
+| **Medicanr** | Medical EdTech platform with video workflows, progress tracking, and user systems. | [Live](https://medicanr.com/) | [Repo](https://github.com/Raadalqadi/medicanr) |
+| **Bisan Travel** | Travel platform with booking workflows, admin dashboard, RBAC, and authentication. | [Live](https://www.bisantravel.com/) | [Repo](https://github.com/Raadalqadi/bisan-travel) |
+| **Al-Naqeeb** | Corporate platform with dashboard management, SEO optimization, and VPS deployment. | [Live](https://www.alnaqeeb.com/) | [Repo](https://github.com/Raadalqadi/al-naqeeb) |
+| **Al-Qutaibi Wallet** | FinTech marketing platform with dynamic content and dashboard-based updates. | [Live](https://qtbshilling.com/) | [Repo](https://github.com/Raadalqadi/qutaibi-wallet) |
+| **Accelerator Token** | Initiative platform with forms, Google authentication, and dynamic content workflows. | [Live](https://accelerator.token.com.sa/) | [Repo](https://github.com/Raadalqadi/accelerator-token) |
+| **Becon Marketing** | Marketing agency website with dynamic sections and content workflow support. | [Live](https://www.beccon4mk.com/) | [Repo](https://github.com/Raadalqadi/becon-marketing) |
 
 ## Experience
 
@@ -100,7 +112,3 @@ Full-Stack Developer on the Accelerator Token project.
 ## Note
 
 Some repositories are public showcase repositories because the original source code belongs to clients or agencies and cannot be published publicly.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,35:06b6d4,70:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer wave" />
-</p>
