@@ -73,6 +73,7 @@ From idea → design → backend → deployment.
 | **Qutaibi Wallet** | FinTech platform with CMS & dynamic content | [Live](https://qtbshilling.com/) | [Repo](https://github.com/Raadalqadi/qutaibi-wallet) |
 | **Becon Marketing** | Agency website with dynamic sections | [Live](https://www.beccon4mk.com/) | [Repo](https://github.com/Raadalqadi/becon-marketing) |
 | **Coffee Menu** | Local network menu app (Mikrotik-based) | [Live](https://aden-coffe.vercel.app/) | [Repo](https://github.com/Raadalqadi/coffee-menu) |
+| **Franchise Accelerator** | Franchise platform for business growth & lead generation | [Live]([https://aden-coffe.vercel.app/](http://franchise-accelerator.com/)) | - |
 
 ---
 
