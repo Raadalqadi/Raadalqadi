@@ -21,7 +21,7 @@
 From idea → design → backend → deployment.
 
 - 📍 Based in Aden, Yemen  
-- 🧠 2+ years of hands-on development  
+- 🧠 3+ years of hands-on development  
 - ⚡ Focused on **platforms, dashboards, CMS, and scalable apps**
 
 ---
