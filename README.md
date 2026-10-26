@@ -21,7 +21,7 @@
 From idea → design → backend → deployment.
 
 - 📍 Based in Aden, Yemen  
-- 🧠 3+ years of hands-on development  
+- 🧠 2+ years of hands-on development  
 - ⚡ Focused on **platforms, dashboards, CMS, and scalable apps**
 
 ---
@@ -56,9 +56,9 @@ From idea → design → backend → deployment.
 
 ## 🏗️ What I Build
 
-✔️ End-to-end platforms  
+✔️ End-to-end platforms & E-Commerce marketplaces  
 ✔️ Admin dashboards & CMS systems  
-✔️ Authentication & user workflows  
+✔️ Authentication & user workflows (RBAC, JWT, OAuth)  
 ✔️ Production-ready business apps  
 
 ---
@@ -66,24 +66,24 @@ From idea → design → backend → deployment.
 ## 🌟 Featured Projects
 
 | 🚀 Project | 💡 Description | 🌐 Live | 📦 Repo |
-|---|---|---|---|
+|---|---|:---:|:---:|
+| **Al-Souq Online** | E-Commerce marketplace with catalog, cart & checkout workflows | [Live](https://alsouqonline.com/) | `Private (Client NDA)` |
+| **Dkoo Media** | Creative media, corporate branding & printing agency platform | [Live](https://dkoomedia.com/) | `Private (Client NDA)` |
+| **Almusraa Accelerator** | Startup accelerator, venture scaling & token management platform | [Live](https://accelerator.token.com.sa/) | [Repo](https://github.com/Raadalqadi/accelerator-token) |
 | **Medicanr** | Medical EdTech platform with video workflows & progress tracking | [Live](https://medicanr.com/) | [Repo](https://github.com/Raadalqadi/medicanr) |
-| **Bisan Travel** | Booking platform with RBAC, dashboard & auth system | [Live](https://www.bisantravel.com/) | [Repo](https://github.com/Raadalqadi/bisan-travel) |
-| **Al-Naqeeb** | Corporate system with dashboard & SEO optimization | [Live](https://www.alnaqeeb.com/) | [Repo](https://github.com/Raadalqadi/al-naqeeb) |
 | **Qutaibi Wallet** | FinTech platform with CMS & dynamic content | [Live](https://qtbshilling.com/) | [Repo](https://github.com/Raadalqadi/qutaibi-wallet) |
-| **Becon Marketing** | Agency website with dynamic sections | [Live](https://www.beccon4mk.com/) | [Repo](https://github.com/Raadalqadi/becon-marketing) |
+| **Al-Naqeeb** | Corporate system with dashboard & SEO optimization | [Live](https://www.alnaqeeb.com/) | [Repo](https://github.com/Raadalqadi/al-naqeeb) |
 | **Coffee Menu** | Local network menu app (Mikrotik-based) | [Live](https://aden-coffe.vercel.app/) | [Repo](https://github.com/Raadalqadi/coffee-menu) |
-| **Franchise Accelerator** | Franchise platform for business growth & lead generation | [Live](https://franchise-accelerator.com/) | - |
 
 ---
 
 ## 🏢 Experience
 
 ### 💼 Becon Agency
-Full-Stack Developer building websites and scalable client platforms.
+Full-Stack Developer building scalable client platforms, dashboards, and APIs.
 
-### 💼 Rany Agency
-Worked on **Accelerator Token platform** (dashboard + auth + forms).
+### 💼 Rany Agency & Client Contracts
+Frontend & Full-Stack Developer building platforms and web applications.
 
 ---
 
@@ -99,8 +99,8 @@ Worked on **Accelerator Token platform** (dashboard + auth + forms).
 
 ## ⚠️ Note
 
-Some repositories are **public showcase versions**.  
-Original production code belongs to clients/agencies and cannot be shared.
+Some repositories are **public showcase versions** or under client NDA.  
+Original production code belongs to clients/agencies and cannot be shared publicly.
 
 ---
 
