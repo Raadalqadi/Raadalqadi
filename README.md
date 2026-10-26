@@ -69,11 +69,11 @@ From idea → design → backend → deployment.
 |---|---|:---:|:---:|
 | **Al-Souq Online** | E-Commerce marketplace with catalog, cart & checkout workflows | [Live](https://alsouqonline.com/) | `Private (Client NDA)` |
 | **Dkoo Media** | Creative media, corporate branding & printing agency platform | [Live](https://dkoomedia.com/) | `Private (Client NDA)` |
-| **Almusraa Accelerator** | Startup accelerator, venture scaling & token management platform | [Live](https://accelerator.token.com.sa/) | [Repo](https://github.com/Raadalqadi/accelerator-token) |
-| **Medicanr** | Medical EdTech platform with video workflows & progress tracking | [Live](https://medicanr.com/) | [Repo](https://github.com/Raadalqadi/medicanr) |
-| **Qutaibi Wallet** | FinTech platform with CMS & dynamic content | [Live](https://qtbshilling.com/) | [Repo](https://github.com/Raadalqadi/qutaibi-wallet) |
-| **Al-Naqeeb** | Corporate system with dashboard & SEO optimization | [Live](https://www.alnaqeeb.com/) | [Repo](https://github.com/Raadalqadi/al-naqeeb) |
-| **Coffee Menu** | Local network menu app (Mikrotik-based) | [Live](https://aden-coffe.vercel.app/) | [Repo](https://github.com/Raadalqadi/coffee-menu) |
+| **Almusraa Accelerator** | Startup accelerator, venture scaling & token management platform | [Live](https://accelerator.token.com.sa/) | `Private (Client NDA)` |
+| **Medicanr** | Medical EdTech platform with video workflows & progress tracking | [Live](https://medicanr.com/) | `Private (Client NDA)` |
+| **Qutaibi Wallet** | FinTech platform with CMS & dynamic content | [Live](https://qtbshilling.com/) | `Private (Client NDA)` |
+| **Al-Naqeeb** | Corporate system with dashboard & SEO optimization | [Live](https://www.alnaqeeb.com/) | `Private (Client NDA)` |
+| **Coffee Menu** | Local network menu app (Mikrotik-based) | [Live](https://aden-coffe.vercel.app/) | `Private (Client NDA)` |
 
 ---
 
@@ -97,10 +97,10 @@ Frontend & Full-Stack Developer building platforms and web applications.
 
 ---
 
-## ⚠️ Note
+## 🔒 Confidentiality Note
 
-Some repositories are **public showcase versions** or under client NDA.  
-Original production code belongs to clients/agencies and cannot be shared publicly.
+All production projects are developed for corporate clients and protected under **Non-Disclosure Agreements (NDA)**.  
+Original client source codes are maintained in private repositories to safeguard intellectual property.
 
 ---
 
